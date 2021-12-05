@@ -29,5 +29,15 @@
 	<li>GIT push</li>
 	<li>GIT pull</li>
 </ul>
+<p>GIT Init digunakan untuk memberitahu git bahwa folder tersebut yang akan dijadikan git</p>
+<p>GIT config digunakan untuk konfigurasi email dan username dan disamakan dengan akun github atau gitlab.</p>
+<p>GIT status digunakan untuk mengetahui status file apakah untracked, stagging area, atau modified.</p>
+<p>GIT add digunakan untuk memasukkan file ke staging area</P
+<p>GIT commit digunakan untuk mencatat setiap oerubahan yang dilakukan</p>
+<p>GIT clone digunakan untuk clone repo dari server</p>
+<p>GIT log digunakan untuk melihat riwayat commit</p>
+<p>GIT push digunakan untuk mengirimkan commit ke server</p>
+<p>GIT pull digunakan untuk mengambil commit dari server</p>
+
 </body>
 </html>
