@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>task git gui</title>
+</head>
+<body>
+<p>GIT adalah salah satu version control system yang diciptakan oleh Linus Torvalds untunk mencatat setiap perubahan file di code atau sourcecode kita.</p>>
+<ul>Beberapa manfaat GIT yaitu:
+	<li>Bisa menyimpan seluruh versi sourcecode</li>
+	<li>Berkolaborasi membangun sistem jadi mudah</li>
+	<li>Bisa berkontribusi di proyek open source</li>
+	<li>Memudahkan dalam tracking perubahan</li>
+	<li>Memahami cara deploy modern</li>
+</ul>
+<ul>Beberapa software GIT yang cloud antara lain:
+	<li>Bitbucket</li>
+	<li>GitHub</li>
+	<li>Gitlab</li>
+</ul>
+</body>
+</html>
