@@ -16,6 +16,18 @@
 	<li>Bitbucket</li>
 	<li>GitHub</li>
 	<li>Gitlab</li>
+	<h3>Fundamental GIT</h3>
+<p>Mempercepat mengerjakan proyek terlebih jika proyek kolaborasi</p>
+<ul>Berikut adalah tools dasar GIT:
+	<li>GIT init</li>
+	<li>GIT config</li>
+	<li>GIT status</li>
+	<li>GIT add</li>
+	<li>GIT commit</li>
+	<li>GIT clone</li>
+	<li>GIT remote</li>
+	<li>GIT push</li>
+	<li>GIT pull</li>
 </ul>
 </body>
 </html>
